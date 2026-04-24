@@ -1,0 +1,16 @@
+file name .env
+
+SUBDOMAIN="*****"
+API_URL="****:8080/"
+SCHEMA="http"
+USEREMAIL="emample.com"
+PASSWORD="******"
+
+
+USEREMAIL = '********'
+PASSWORD = '******'
+SUBDOMAIN = '10.50.50.51'
+SCHEMA = 'http'
+// https://automationexercise.com/hgh
+
+
